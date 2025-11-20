@@ -1,0 +1,13 @@
+Django==4.2.7
+ djangorestframework==3.14.0
+ django-cors-headers==4.3.1
+ psycopg2-binary
+ django-oauth-toolkit==1.7.0
+ celery==5.3.4
+ redis==5.0.1
+ numpy
+ scikit-learn
+ pandas
+ Pillow
+ python-decouple
+ psycopg2-2.9.10
